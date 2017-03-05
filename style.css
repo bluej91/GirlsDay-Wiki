@@ -1,0 +1,61 @@
+.hdMain{
+    margin:0;
+    padding:0;
+    text-align: center;
+    font-size: 70px;
+    padding-top: 40px;
+}
+.aboutG{
+    margin-top:0.5em;
+    text-align: center;
+    padding-bottom: 5px
+}
+.jumbotron{
+    text-align: center;
+    background-color: white;
+}
+.fluid-container{
+    background-color: lightgray;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+.imgBox{
+    background-color: white;
+    padding-top: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-bottom: 8px;
+    border-radius: 0.5%;
+    max-width: 100%;
+}
+.gdImage{
+    max-width:100%;
+}
+.timeGD{
+    padding-top: 40px;
+    padding-right: 80px;
+}
+.factsList{
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 3px;
+    max-width: 500px;
+    
+    
+}
+
+.li1, .li2, .li3, .li4{
+    text-align: left;
+    display:flex;    
+}
+.gdAnchor{
+    font-size: 20px;
+    font-weight: 100px;
+    text-decoration: none;
+}
+.ruler{
+    padding: 2px;
+}
+.hang{
+    font-size: 30px;
+}
